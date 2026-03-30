@@ -8,7 +8,7 @@
 I am a passionate BCA student with a clear vision of becoming a **Software Engineer at top tech companies**.  
 My core strengths lie in **C++ (Object-Oriented Programming)** and **Full-Stack Web Development (MERN Stack)**, along with a growing command over **Data Structures & Algorithms**.
 
-I believe in building **efficient, scalable, and user-focused solutions**, continuously improving my **problem-solving mindset**, and learning through **real-world projects**.
+I believe in building **efficient, scalable, and user-focused solutions**, continuously improving my **problem-solving mindset**, and learning through **real-world project's**.
 
 ## 📌 Projects
 
