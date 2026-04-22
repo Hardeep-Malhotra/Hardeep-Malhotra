@@ -16,7 +16,7 @@ I believe in building **efficient, scalable, and user-focused solutions**, conti
 
 A complete vacation rental platform where users can **browse, book, and list properties** such as houses, villas, and farmhouses.
 
-#### 🔑 Key Features
+#### 🔑 Key Feature's
 - Google & GitHub OAuth Authentication  
 - Role-based Authorization (Users & Hosts)  
 - Property Listing & Booking System  
