@@ -18,7 +18,7 @@ A complete vacation rental platform where users can **browse, book, and list pro
 
 #### 🔑 Key Feature's
 - Google & GitHub OAuth Authentication  
-- Role-based Authorization (Users & Hosts)  
+- Role-based Authorization (User's & Host's)  
 - Property Listing & Booking System  
 - Advanced Search & Filters  
 - User Reviews & Ratings  
