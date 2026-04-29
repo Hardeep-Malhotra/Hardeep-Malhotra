@@ -57,7 +57,7 @@ A console-based ticket booking system using **Object-Oriented Programming**.
 
 **Features:**
 - Ticket booking with unique PNR  
-- View booked tickets  
+- View booked ticket's  
 - Input validation  
 
 **Skills Used:** C++, OOP, Program Control Flow  
