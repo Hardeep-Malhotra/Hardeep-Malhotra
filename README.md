@@ -14,7 +14,7 @@ I believe in building **efficient, scalable, and user-focused solutions**, conti
 
 ### 🌍 WanderLust — Full Stack Web Application (Major Project)
 
-A complete vacation rental platform where users can **browse, book, and list properties** such as houses, villas, and farmhouses.
+A complete vacation rental platform where users can **browse, book, and list properties** such as house's, villas, and farmhouses.
 
 #### 🔑 Key Feature's
 - Google & GitHub OAuth Authentication  
