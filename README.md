@@ -40,7 +40,7 @@ A complete vacation rental platform where users can **browse, book, and list pro
 
 ### 🏪 Grocery Store Management System (C++)
 
-Console-based product management and billing system built using **C++ classes and arrays**.
+Console-based product management and billing system built using **C++ classe's and arrays**.
 
 **Features:**
 - Add & manage products  
