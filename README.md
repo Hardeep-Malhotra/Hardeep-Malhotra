@@ -20,7 +20,7 @@ A complete vacation rental platform where users can **browse, book, and list pro
 - Google & GitHub OAuth Authentication  
 - Role-based Authorization (User's & Host's)  
 - Property Listing & Booking System  
-- Advanced Search & Filters  
+- Advanced Search & Filter's  
 - User Reviews & Ratings  
 - Real-time Location Mapping (Mapbox / Leaflet)  
 - Image Upload with Cloudinary  
