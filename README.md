@@ -86,7 +86,7 @@ Responsive Starbucks landing page built as part of frontend practice.
 **Highlights:**
 - Media Queries for responsivenessh  
 - Flexbox & Grid layouts  
-- Clean UI inspired by Starbucks  
+- Clean UI inspired by Starbuck's  
 
 🌐 **Live Demo:**  
 https://hardeep-cloud16.github.io/starbucks-clone/
