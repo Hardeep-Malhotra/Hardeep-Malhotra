@@ -84,7 +84,7 @@ https://microsoft-clone-hardeep-singhs-projects-c4af0cad.vercel.app/
 Responsive Starbucks landing page built as part of frontend practice.
 
 **Highlights:**
-- Media Queries for responsivenessh  
+- Media Querie's for responsivenessh  
 - Flexbox & Grid layouts  
 - Clean UI inspired by Starbuck's  
 
