@@ -24,7 +24,7 @@ A complete vacation rental platform where users can **browse, book, and list pro
 - User Reviews & Ratings  
 - Real-time Location Mapping (Mapbox / Leaflet)  
 - Image Upload with Cloudinary  
-- Secure Sessions & Cookie's  
+- Secure Session's & Cookie's  
 - MVC Architecture  
 
 #### 🧑‍💻 Tech Stack
