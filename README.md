@@ -81,7 +81,7 @@ https://microsoft-clone-hardeep-singhs-projects-c4af0cad.vercel.app/
 
 ### ☕ Starbucks Landing Page Clone
 
-Responsive Starbucks landing page built as part of frontend practice.
+Responsive Starbuck's landing page built as part of frontend practice.
 
 **Highlights:**
 - Media Querie's for responsivenessh  
