@@ -21,7 +21,7 @@ A complete vacation rental platform where users can **browse, book, and list pro
 - Role-based Authorization (User's & Host's)  
 - Property Listing & Booking System  
 - Advanced Search & Filter's  
-- User Reviews & Rating's  
+- User Review's & Rating's  
 - Real-time Location Mapping (Mapbox / Leaflet)  
 - Image Upload with Cloudinary  
 - Secure Session's & Cookie's  
