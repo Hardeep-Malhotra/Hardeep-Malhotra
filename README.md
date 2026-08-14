@@ -6,7 +6,7 @@
 🎓 BCA Student | 💼 Open to Internship Opportunities  
 
 I am a passionate BCA student with a clear vision of becoming a **Software Engineer at top tech companie's**.  
-My core strengths lie in **C++ (Object-Oriented Programming)** and **Full-Stack Web Development (MERN Stack)**, along with a growing command over **Data Structures & Algorithm"s**.
+My core strength's lie in **C++ (Object-Oriented Programming)** and **Full-Stack Web Development (MERN Stack)**, along with a growing command over **Data Structures & Algorithm"s**.
 
 I believe in building **efficient, scalable, and user-focused solutions**, continuously improving my **problem-solving mindset**, and learning through **real-world project's**.
 
