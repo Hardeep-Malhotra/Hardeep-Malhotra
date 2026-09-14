@@ -1,122 +1,167 @@
-# 💫 About Me
+<div align="center">
 
-👋 Hi, I'm **Hardeep Singh**  
+<img src="./assets/profile.png" width="150" style="border-radius:50%;" alt="Hardeep Singh"/>
 
-**Aspiring Software Engineer | C++ (OOP) & Full-Stack Web Developer**  
-🎓 BCA Student | 💼 Open to Internship Opportunities  
+<br/>
 
-I am a passionate BCA student with a clear vision of becoming a **Software Engineer at top tech companie's**.  
-My core strength lie in **C++ (Object-Oriented Programming)** and **Full-Stack Web Development (MERN Stack)**, along with a growing command over **Data Structures & Algorithm"s**.
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hardeep+Singh;Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+</a>
 
-I believe in building **efficient, scalable, and user-focused solutions**, continuously improving my **problem-solving mindset**, and learning through **real-world project's**.
+<br/>
 
-## 📌 Projects
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00D9FF&style=flat" alt="profile views"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hardeepmalhotra022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://youtube.com/@CodeWithHardeep"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 
-### 🌍 WanderLust — Full Stack Web Application (Major Project)
+</div>
 
-A complete vacation rental platform where users can **browse, book, and list properties** such as house's, villa's, and farmhouse'
-s.
+<br/>
 
-#### 🔑 Key Feature's
-- Google & GitHub OAuth Authentication  
-- Role-based Authorization (User's & Host's)  
-- Property Listing & Booking System  
-- Advanced Search & Filter's  
-- User Review's & Rating's  
-- Real-time Location Mapping (Mapbox / Leaflet)  
-- Image Upload with Cloudinary  
-- Secure Session's & Cookie's  
-- MVC Architecture  
+## 🚀 About Me
 
-#### 🧑‍💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, EJS, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB Atlas  
-- **Authentication:** Passport.js, JWT  
-- **Deployment:** Render  
+```txt
+const hardeep = {
+    role: "Full-Stack MERN Developer",
+    location: "Yamuna Nagar, Haryana, India",
+    education: "BCA, Mukand Lal National College (Kurukshetra University)",
+    focus: ["MongoDB", "Express.js", "React.js", "Node.js", "AI Integration"],
+    currentlyBuilding: "AI-Powered E-Commerce Platform",
+    funFact: "I turn real college problems into real products 🎯"
+};
+```
 
-🔗 **Live Demo:** WanderLust Application Link  
+- 🌱 Full-Stack MERN Developer with hands-on industry training, building real-world, production-style web applications
+- 🤖 Passionate about integrating **AI features** (Gemini, LangChain, Ollama, Semantic Search) into practical software
+- 🎥 I run **CodeWithHardeep** on YouTube, documenting my coding journey
+- 🏆 3rd Position — SD Tech4Society Hackathon 2026 (ApexRide — Smart Bus Tracking System)
+- 💡 Entrepreneurial mindset — building a freelance web development venture alongside my studies
 
----
+<br/>
 
-### 🏪 Grocery Store Management System (C++)
+## 🛠️ Tech Stack
 
-Console-based product management and billing system built using **C++ classe's and arrays**.
+<div align="center">
 
-**Features:**
-- Add & manage products  
-- Automatic bill calculation  
-- Structured console output  
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,redux" />
 
-**Skills Used:** C++, OOP, Arrays, Console I/O  
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
----
+**Database & Caching**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
 
-### 🚆 Railway Reservation System (C++)
+**AI / ML Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,py" /> &nbsp; LangChain • Google Gemini API • Ollama • Vector Search
 
-A console-based ticket booking system using **Object-Oriented Programming**.
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,cpp" />
 
-**Features:**
-- Ticket booking with unique PNR  
-- View booked ticket's  
-- Input validation  
+</div>
 
-**Skills Used:** C++, OOP, Program Control Flow  
+<br/>
 
----
+## 🔥 Featured Projects
 
-### 🖥️ Microsoft Homepage Clone
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A fully responsive clone of the Microsoft homepage built using **HTML5 & CSS3 only**.
+### 🛒 Shopzy
+**AI-Powered Multi-Vendor E-Commerce Platform**
 
-**Highlights:**
-- Pixel-perfect UI  
-- Flexbox-based layout  
-- Semantic HTML  
-- Responsive design  
+Role-based dashboards for Users, Sellers & Admins with Redis caching (API response time cut from ~150–350ms to 8–25ms), secure Razorpay payments (HMAC-SHA256), and an AI shopping assistant powered by FastAPI + LangChain + Gemini with semantic/vector product search.
 
-🌐 **Live Demo:**  
-https://microsoft-clone-hardeep-singhs-projects-c4af0cad.vercel.app/
+`MERN` `Redis` `Razorpay` `FastAPI` `LangChain`
 
----
+</td>
+<td width="50%" valign="top">
 
-### ☕ Starbucks Landing Page Clone
+### 🎓 JavaGuruKul
+**AI-Powered Learning Management System**
 
-Responsive Starbuck's landing page built as part of frontend practice.
+Built during MERN Stack training at Pisoft Informatics. Features JWT auth, role-based access, batch & video management, live class scheduling, and AI-generated lecture summaries using a locally hosted LLM.
 
-**Highlights:**
-- Media Querie's for responsivenessh  
-- Flexbox & Grid layouts  
-- Clean UI inspired by Starbuck
+`MERN` `JWT` `Ollama` `Gemma 3`
 
-🌐 **Live Demo:**  
-https://hardeep-cloud16.github.io/starbucks-clone/
+🔗 [Live Demo](https://javagurukul-panel-sigma.vercel.app/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📚 Currently Learning
-- Advanced JavaScript  
-- MERN Stack (Deep Dive)  
-- Data Structures & Algorithms  
-- Backend Architecture & Security
-- 
----
+### 🏡 WanderLust
+**Vacation Rental Platform (Airbnb-inspired)**
 
-## 🤝 Open For
-- Internship Opportunitie's  
-- Open-Source Contributions  
-- Collaborative Projects  
-- Learning & Growth  
+Full-stack rental platform with Passport.js authentication, CRUD listings, Cloudinary image uploads, and Leaflet.js interactive maps.
 
----
+`MongoDB` `Express` `React` `Node.js` `Passport.js`
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+</td>
+<td width="50%" valign="top">
 
+### 🚌 ApexRide
+**Smart Bus Tracking System** — 🏆 3rd Place, SD Tech4Society Hackathon 2026
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardeep-singh-5bb41a33a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hardeepmalhotra022@gmail.com) 
+Live location tracking, ETA prediction, and real-time map integration built with a team, among 50+ participating teams.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+`Maps API` `Real-Time Tracking`
 
+</td>
+</tr>
+</table>
 
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🥉 **3rd Position** — SD Tech4Society Hackathon 2026 (ApexRide – Smart Bus Tracking System)
+- 🎓 **CGPA 8.50/10** — BCA, Mukand Lal National College, Yamuna Nagar
+- 🧑‍🏫 Completed MERN Stack Developer training at **Pisoft Informatics Pvt. Ltd.**, Mohali
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:hardeepmalhotra022@gmail.com"><img src="https://img.shields.io/badge/Email-hardeepmalhotra022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@CodeWithHardeep"><img src="https://img.shields.io/badge/YouTube-CodeWithHardeep-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<br/><br/>
+
+📞 +91-8950516966
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=100&section=footer"/>
+
+</div>
