@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Hardeep-Malhotra">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hardeep+Singh;Full-Stack+MERN+Developer;AI-Integrated+Web+Applications;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
 </a>
 
