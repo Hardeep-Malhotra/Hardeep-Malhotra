@@ -32,7 +32,7 @@ const hardeep = {
 };
 ```
 
-- 🌱 Full-Stack MERN Developer with hands-on industry training, building real-world, production-style web applications
+- 🌱 Full-Stack MERN Developer with hands-on industry training, building real-world, production-style web application's
 - 🤖 Passionate about integrating **AI features** (Gemini, LangChain, Ollama, Semantic Search) into practical software
 - 🎥 I run **CodeWithHardeep** on YouTube, documenting my coding journey
 - 🏆 3rd Position — SD Tech4Society Hackathon 2026 (ApexRide — Smart Bus Tracking System)
