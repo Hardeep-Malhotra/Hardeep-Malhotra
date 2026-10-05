@@ -28,7 +28,7 @@ const hardeep = {
     education: "BCA, Mukand Lal National College (Kurukshetra University)",
     focus: ["MongoDB", "Express.js", "React.js", "Node.js", "AI Integration"],
     currentlyBuilding: "AI-Powered E-Commerce Platform",
-    funFact: "I turn real college problems into real products 🎯"
+    funFact: "I turn real college problems into real product's 🎯"
 };
 ```
 
