@@ -36,7 +36,7 @@ const hardeep = {
 - 🤖 Passionate about integrating **AI features** (Gemini, LangChain, Ollama, Semantic Search) into practical software
 - 🎥 I run **CodeWithHardeep** on YouTube, documenting my coding journey
 - 🏆 3rd Position — SD Tech4Society Hackathon 2026 (ApexRide — Smart Bus Tracking System)
-- 💡 Entrepreneurial mindset — building a freelance web development venture alongside my studies
+- 💡 Entrepreneurial mindset — building a freelance web development venture alongside my studie's
 
 <br/>
 
