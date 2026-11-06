@@ -61,7 +61,7 @@ const hardeep = {
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,py" /> &nbsp; LangChain • Google Gemini API • Ollama • Vector Search
 
-**Tools & Platforms**
+**Tools & Platform's**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,cpp" />
 
