@@ -78,7 +78,7 @@ const hardeep = {
 ### 🛒 Shopzy
 **AI-Powered Multi-Vendor E-Commerce Platform**
 
-Role-based dashboards for Users, Sellers & Admins with Redis caching (API response time cut from ~150–350ms to 8–25ms), secure Razorpay payments (HMAC-SHA256), and an AI shopping assistant powered by FastAPI + LangChain + Gemini with semantic/vector product search.
+Role-based dashboards for Users, Seller's & Admins with Redis caching (API response time cut from ~150–350ms to 8–25ms), secure Razorpay payments (HMAC-SHA256), and an AI shopping assistant powered by FastAPI + LangChain + Gemini with semantic/vector product search.
 
 `MERN` `Redis` `Razorpay` `FastAPI` `LangChain`
 
